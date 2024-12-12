@@ -1,7 +1,8 @@
+package ToDoList;
 
 import java.util.Scanner;
 
-public class Main {
+public class RunToDoList {
     public static void main(String[] args) {
 
         boolean running = true;
